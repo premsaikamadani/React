@@ -63,6 +63,7 @@ Interface: It is used to define type for Object or Class.
         fieldName: dataType;
         fieldName: dataType;
         fieldName: dataType;
+        fieldName: dataType;
         methodName(): retrnType;
 
      }
