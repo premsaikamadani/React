@@ -2,7 +2,7 @@ const companyName: string = "Tech Innovators Inc.";
 
 const isAccountActivated: boolean = true;
 
-const totalAmount: number = 4009;
+const totalAmount: number = 4008;
 
 const users: Array<string> = ['ravi', 'srinu', 'bhanu','krishna' ];
 
