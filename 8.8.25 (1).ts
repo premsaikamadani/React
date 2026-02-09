@@ -18,7 +18,7 @@ const userInfo: User = {
      id: 1,
     name: 'ravi',
     email: 'ravi@example.com',
-    password: 'ravi12345'
+    password: 'ravi123456'
     }
 
 
